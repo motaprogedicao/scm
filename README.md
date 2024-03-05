@@ -1,5 +1,5 @@
 # INTRODUÇÃO DE GESTÃO DE CODIGO FONTE
-
+---
 ## PRIMEIROS PASSOS
 -Clone este repositorio
 -Faça um commit local
